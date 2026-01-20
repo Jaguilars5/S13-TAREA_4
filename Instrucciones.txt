@@ -1,0 +1,7 @@
+ID de entrada de datos=Entrada_Datos
+ID de salida de datos=Salida_Datos
+ID adicional ejercicio3= Exponente
+ID adicional ejercicio6,7= ValorInicial
+ID adicional ejercicio15= Inicio, Fin
+ serieNumeros = serieNumeros.split(",").map(n => Number(n)) //LA serie la convierte en una serie de numeros 
+ ,join(",")//Para poner una coma despues de cada numero
